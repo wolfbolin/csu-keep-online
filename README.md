@@ -1,10 +1,17 @@
 # Keep-online
 
+![Windows](https://img.shields.io/badge/Windows-Yes-green.svg)
+![Linux](https://img.shields.io/badge/Linux-Yes-green.svg)
+![MacOS](https://img.shields.io/badge/MacOS-Yes-green.svg)
+
+![Python](https://img.shields.io/badge/Python-3.7-blue.svg)
+![Python](https://img.shields.io/badge/Python-2.7-blue.svg)
+
 *Forked from [fr0der1c/always-online](https://github.com/fr0der1c/always-online)*
 
 这个小工具能自动监测网络状态，并在掉线后能自动重连。（仅适用于中南大学中国移动网络）
 
-此版本针对于 Linux 平台编写，并且需要用户自行设计计时器反复调用，已针对Python2与Python3进行优化。
+此版本针对于多平台编写，并且需要用户自行设计计时器反复调用，已针对Python2与Python3进行优化。
 
 **多平台**
 
